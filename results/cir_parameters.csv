@@ -1,5 +1,5 @@
 parameter,value,description
-alpha,0.002403100759600067,Drift product alpha = kappa * theta
-kappa,0.0001,Mean reversion speed
-theta,24.031007596000666,Long-run mean of short rate
-sigma,0.04694943743940134,Volatility coefficient
+alpha,0.00240671785519546,Drift product alpha = kappa * theta
+kappa,0.001,Mean reversion speed
+theta,2.40671785519546,Long-run mean of short rate
+sigma,0.0469497250260536,Volatility coefficient
