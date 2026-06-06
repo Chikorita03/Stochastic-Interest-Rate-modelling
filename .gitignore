@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Project-specific generated outputs
+data/processed/
+results/
+src/__pycache__/
+
+# Virtual environment
+venv/
+.venv/
